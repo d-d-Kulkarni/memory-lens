@@ -1,0 +1,8 @@
+torch
+torchvision
+open_clip_torch
+Pillow
+chromadb
+numpy
+python-dotenv
+google-genai
